@@ -8,9 +8,7 @@
 - Thank you for your supporting.
 
 
-## Source & Learning Portfolio 
+## REFERENCE
 
 - Cryptical Coder 
-- Code Mal
-- Let's Learn Programming
-- Msquare Programming
+  
